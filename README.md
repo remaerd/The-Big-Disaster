@@ -1,6 +1,6 @@
 # The Big DDDiiisaster!
 
-![Rulebook](https://github.com/remaerd/The-Big-Disaster/blob/master/The%20Big%20DDDDiiiisaster!%20Rulebook.pdf
+![Rulebook](https://github.com/remaerd/The-Big-Disaster/blob/master/The%20Big%20DDDDiiiisaster!%20Rulebook.pdf)
 ![Global Game Jam 2020 - Project Page](https://globalgamejam.org/2020/games/big-disaster-5)
 
 ## Creator
