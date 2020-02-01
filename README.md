@@ -1,5 +1,19 @@
 # The Big DDDiiisaster!
 
+## Creator
+
+![foo](https://github.com/remaerd/The-Big-Disaster/blob/master/img_0247_0.jpg)
+
+- ![Xingzhi Zheng aka Gigi](https://twitter.com/remaerd)
+- ![Cheriece Bailey-Adair](https://instagram.com/ceebee4eva)
+- ![Yasmin Ahmed](mailto://yasmin.mohammed16@outlook.com)
+- ![Saheed Kazeem](mailto://saheekazeem@gmail.com)
+- ![Peter John Gatrell](mailto://peter.gatrell@ntlworld.com)
+
+A simple card collecting and survival game between players. As you and the other players nations encounter natural and not so natural disasters, you must survive and make progress to win.
+
+![foo](https://globalgamejam.org/2020/games/big-disaster-5)
+
 ![foo](https://github.com/remaerd/The-Big-Disaster/blob/master/img_0248_0.jpg)
 ![foo](https://github.com/remaerd/The-Big-Disaster/blob/master/img_0249.jpg)
 
@@ -47,4 +61,4 @@ Once the Disaster Deck has been used up, reshuffle it into a new deck. Or the Di
 
 **If a player loses ALL of their Progress Cards, they are eliminated from the game!**
 
-![foo](https://github.com/remaerd/The-Big-Disaster/blob/master/img_0247_0.jpg)
+
