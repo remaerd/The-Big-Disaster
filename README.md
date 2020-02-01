@@ -1,3 +1,6 @@
+![foo](https://github.com/remaerd/The-Big-Disaster/blob/master/img_0248_0.jpg)
+![foo](https://github.com/remaerd/The-Big-Disaster/blob/master/img_0249.jpg)
+
 **Set Up:**
 
 This is a game for 2 - 4 players.
@@ -41,3 +44,5 @@ Repair Trading: When another player has drawn a Disaster Card, any player can of
 Once the Disaster Deck has been used up, reshuffle it into a new deck. Or the Disaster Cards can be placed at the bottom of the deck when they are discarded.
 
 **If a player loses ALL of their Progress Cards, they are eliminated from the game!**
+
+![foo](https://github.com/remaerd/The-Big-Disaster/blob/master/img_0247_0.jpg)
