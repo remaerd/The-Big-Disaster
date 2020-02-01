@@ -1,5 +1,7 @@
 # The Big DDDiiisaster!
 
+![Global Game Jam 2020 - Project Page](https://globalgamejam.org/2020/games/big-disaster-5)
+
 ## Creator
 
 ![foo](https://github.com/remaerd/The-Big-Disaster/blob/master/img_0247_0.jpg)
@@ -11,8 +13,6 @@
 - ![Peter John Gatrell](mailto://peter.gatrell@ntlworld.com)
 
 A simple card collecting and survival game between players. As you and the other players nations encounter natural and not so natural disasters, you must survive and make progress to win.
-
-![foo](https://globalgamejam.org/2020/games/big-disaster-5)
 
 ![foo](https://github.com/remaerd/The-Big-Disaster/blob/master/img_0248_0.jpg)
 ![foo](https://github.com/remaerd/The-Big-Disaster/blob/master/img_0249.jpg)
