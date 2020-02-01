@@ -1,7 +1,9 @@
+# The Big DDDiiisaster!
+
 ![foo](https://github.com/remaerd/The-Big-Disaster/blob/master/img_0248_0.jpg)
 ![foo](https://github.com/remaerd/The-Big-Disaster/blob/master/img_0249.jpg)
 
-**Set Up:**
+## Set Up
 
 This is a game for 2 - 4 players.
 
@@ -19,7 +21,7 @@ In ****short games where the players need 6 or 7 types to win, each player gets
 
 Note that the players in this game **show** their hand of cards.
 
-**How to play:**
+## How to play
 
 To begin, all the players roll a D6; the player with the highest roll goes first.
 
